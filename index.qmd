@@ -17,31 +17,31 @@ Linking NANOstructure and macroscopic properties of bitumen to improve their rec
 
 ::: {layout="[20,20]"}
 
-[![Cerema](images/logo_Cerema.png)](https://www.cerema.fr)
+[![](images/logo_Cerema.png)](https://www.cerema.fr)
 
-[![UMR MCD](images/UMR%20MCD-couleur-300dpi.png)](https://www.cerema.fr/fr/innovation-recherche/recherche/equipes/umr-mcd-materiaux-construction-durable)
+[![](images/UMR%20MCD-couleur-300dpi.png)](https://www.cerema.fr/fr/innovation-recherche/recherche/equipes/umr-mcd-materiaux-construction-durable)
 
 :::
 
 
 ::: {layout="[20,20]"}
 
-[![Univ Montpellier](images/logo_UM.png)](https://www.umontpellier.fr/)
+[![](images/logo_UM.png)](https://www.umontpellier.fr/)
 
-[![Labo Charles Coulomb](images/logo_labCoulomb.png)](https://coulomb.umontpellier.fr/)
+[![](images/logo_labCoulomb.png)](https://coulomb.umontpellier.fr/)
 
 :::
 
 
 ::: {layout="[20]"}
 
-[![ESTP](images/logo_ESTP.png)](https://www.estp.fr/)
+[![](images/logo_ESTP.png)](https://www.estp.fr/)
 
 
-[![Vinci](images/logo_Vinci.png)](https://www.eurovia.fr/)
+[![](images/logo_Vinci.png)](https://www.eurovia.fr/)
 
 
-[![TotalEnergies](images/logo_Total.png)](https://www.totalenergies.fr/)
+[![](images/logo_Total.png)](https://www.totalenergies.fr/)
 
 :::
 
