@@ -1,12 +1,13 @@
 project:
   type: website
+  output-dir: docs
   preview:
     port: 3000
     browser: false
 
 website:
   title: "Nanoroad ANR project"
-  description: "Learn Deep Learning with fastai and PyTorch, 2022"
+  description: "Linking NANOstructure and macroscopic properties of bitumen to improve their recyclability and aging: towards a sustainable development of ROAD materials"
   twitter-card: true
   open-graph: true
   reader-mode: true
@@ -31,4 +32,6 @@ format:
     toc: true
     page-layout: full
 
+execute:
+  freeze: auto
 
