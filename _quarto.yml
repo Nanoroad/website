@@ -20,7 +20,17 @@ website:
     right:
       - href: index.qmd
         text: Home
+      - href: deliverables.qmd
+        text: Deliverables
+      - href: biblio.qmd
+        text: Bibliography
       - about.qmd
+
+bibliography:
+  - _biblio/nanoroad_jfb.bib
+suppress-bibliography: false
+link-citations: true
+csl: _biblio/elsevier-harvard.csl
 
 editor:
     render-on-save: true

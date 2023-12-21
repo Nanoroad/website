@@ -1,0 +1,8 @@
+---
+nocite: |
+  @*
+---
+
+# Bibliography
+
+This page gathers relevant bibliography for the project.
