@@ -1,0 +1,34 @@
+project:
+  type: website
+  preview:
+    port: 3000
+    browser: false
+
+website:
+  title: "Nanoroad ANR project"
+  description: "Learn Deep Learning with fastai and PyTorch, 2022"
+  twitter-card: true
+  open-graph: true
+  reader-mode: true
+  page-navigation: true
+  repo-branch: main
+  repo-url: https://github.com/Nanoroad/website
+  # repo-actions: [issue]
+  navbar:
+    search: true
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+editor:
+    render-on-save: true
+
+format:
+  html:
+    theme: _config/custom.scss
+    css: _config/styles.css
+    toc: true
+    page-layout: full
+
+
