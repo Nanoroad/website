@@ -20,6 +20,18 @@ website:
     right:
       - href: index.qmd
         text: Home
+      - text: Work packages
+        menu:
+          - href: WPs/wp1.qmd
+            text: WP1
+          - href: WPs/wp2.qmd
+            text: WP2
+          - href: WPs/wp3.qmd
+            text: WP3
+          - href: WPs/wp4.qmd
+            text: WP4
+          - href: WPs/wp5.qmd
+            text: WP5
       - href: deliverables.qmd
         text: Deliverables
       - href: biblio.qmd
