@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Nanoroad/website/sitemap.xml
+Sitemap: https://Nanoroad.github.io/website/sitemap.xml
